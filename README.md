@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![HitCount](http://hits.dwyl.com/pinarkaymaz6/pinarkaymaz6.svg)](http://hits.dwyl.com/pinarkaymaz6/pinarkaymaz6)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pinarkaymaz6.svg?style=social)](https://twitter.com/pinarkaymaz6)
 
 <!--
