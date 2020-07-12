@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/pinarkaymaz6.svg?style=flat)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/pinarkaymaz6.svg?style=social)](https://twitter.com/pinarkaymaz6)
+
 <!--
 **pinarkaymaz6/pinarkaymaz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
